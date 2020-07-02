@@ -21,7 +21,7 @@
 <script src="${pageContext.request.contextPath }/style/js/bootstrap.min.js"></script>
    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath }/style/css/course.css">
  --%>
- <title>Mooc我的学习</title>
+ <title>SPM我的学习</title>
 <!--[if lt IE 9]>  
 <script src="js/html5shiv.js"></script>  
 <script src="js/respond.min.js"></script>  
