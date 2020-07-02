@@ -14,7 +14,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>mooc后台管理系统</title>
+<title>SPM后台管理系统</title>
 </head><%-- 
 <%@include file="leftmeun.jsp"%> --%>
 
@@ -22,7 +22,7 @@
 	<div>
 		<div class="container"
 			style="max-height: 100%; max-width:100%; margin-left: 0px; float: left; margin-right: 0px;">
-			<p style="font-size: 50px;text-align: center;">Mooc课程管理</p>
+			<p style="font-size: 50px;text-align: center;">SPM课程管理</p>
 			<div class="container"
 				style="max-height: 100%; max-width:100%; margin-top: 50px; margin-right: 0px; padding-left: 0px; padding-right: 0px;">
 				<table class="table table-striped" width="950">

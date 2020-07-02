@@ -23,7 +23,7 @@
 	<a href=#>
 	<img src="${pageContext.request.contextPath }/style/image/1.png" width="204px" class="img-rounded"></a>
 	</div>
-	<h2>mooc管理员登录</h2>
+	<h2>SPM管理员登录</h2>
 	<!-- uiView:  -->
 	<div data-ui-view="" class="container">
 
