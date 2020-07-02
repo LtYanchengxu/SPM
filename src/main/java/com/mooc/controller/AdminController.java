@@ -163,7 +163,7 @@ public class AdminController {
 		User user = userBiz.selectByPrimaryKey(userid);
 		if(user==null){
 			pw.print("用户ID不存在！请核实后再充值");
-		}else if(!paypassword.equals("591284209")){
+		}else if(!paypassword.equals("admin")){
 			pw.print("0");
 		}else{
 			user.setCollect(user.getCollect()+collect);

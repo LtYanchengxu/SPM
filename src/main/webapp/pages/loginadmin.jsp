@@ -21,7 +21,7 @@
 	<div class="user ">
 	<div class="logo" style="margin-bottom: 50px;margin-top: 50px;">
 	<a href=#>
-	<img src="${pageContext.request.contextPath }/style/image/1.jpg" width="204px" class="img-rounded"></a>
+	<img src="${pageContext.request.contextPath }/style/image/1.png" width="204px" class="img-rounded"></a>
 	</div>
 	<h2>mooc管理员登录</h2>
 	<!-- uiView:  -->
