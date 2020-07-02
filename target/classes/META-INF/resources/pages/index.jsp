@@ -43,7 +43,7 @@ body {
 						</ol>
 						<div class="carousel-inner">
 							<div class="item active">
-								<img alt="" src="style/image/index/2.jpg" width="100%"
+								<img alt="" src="../style/image/index/cover.jpg" width="100%"
 									height="300px" />
 								<div class="carousel-caption">
 									<h4>
@@ -55,7 +55,7 @@ body {
 								</div>
 							</div>
 							<div class="item">
-								<img alt="" src="style/image/index/1.jpg" width="100%"
+								<img alt="" src="../style/image/index/mooc.jpg" width="100%"
 									height="300px" />
 								<div class="carousel-caption">
 									<h4>
@@ -68,7 +68,7 @@ body {
 								</div>
 							</div>
 							<div class="item">
-								<img alt="" src="style/image/index/3.jpg" width="100%"
+								<img alt="" src="../style/image/index/ch2-show.png" width="100%"
 									height="300px" />
 								<div class="carousel-caption">
 									<h4>
@@ -199,7 +199,7 @@ body {
 					</div>
 				</div>
 			</div>
-			<img alt="140x140" src="style/image/bottom.JPG" />
+			<img alt="140x140" src="../style/image/foot.png" />
 		</div>
 	</div>
 </div>

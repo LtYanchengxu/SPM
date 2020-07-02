@@ -62,7 +62,7 @@
 					class="icon-bar"></span> <span class="icon-bar"></span> <span
 					class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="course">上课吧 </a>
+			<a class="navbar-brand" href="course">SPM</a>
 		</div>
 
 		<div class="collapse navbar-collapse"
