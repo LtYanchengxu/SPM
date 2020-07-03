@@ -11,22 +11,18 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 
 @SpringBootApplication(exclude = {MultipartAutoConfiguration.class})
 @MapperScan("com.mooc.mapper")
-/**
- * 
- * @author yangqihui
- *
- */
-public class DemoApplication extends SpringBootServletInitializer{
 
-   
-	public static void main(String[] args) {
+public class DemoApplication extends SpringBootServletInitializer {
 
-	    SpringApplication.run(DemoApplication.class, args);
-	}
 
-	@Override
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-		return builder.sources(DemoApplication.class);
-	}
+    public static void main(String[] args) {
+
+        SpringApplication.run(DemoApplication.class, args);
+    }
+
+    @Override
+    protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+        return builder.sources(DemoApplication.class);
+    }
 
 }
